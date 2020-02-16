@@ -2,7 +2,7 @@ package ru.masis;
 
 public class Lesson1 {
     public static void main(String[] args) {
-        System.out.println("from gitHub changes");
+        System.out.println("from gitHub");
     }
 
 }
