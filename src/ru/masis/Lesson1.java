@@ -5,7 +5,7 @@ public class Lesson1 {
         System.out.println("hello from childdev1");
         System.out.println("нрннрн");
         System.out.println("свсвс com after childdev1created");
-        //ddfdfdfdfdfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvddddddddddd
+        //ddfdfdfdfdfvdvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvdddddddddddsdsdsdsdsdsds
     }
 
 }
